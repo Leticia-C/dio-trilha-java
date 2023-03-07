@@ -1,4 +1,4 @@
-package EstruturasDeRepetiçãoEArraysEmJava.loops;
+package loops;
 
 import java.util.Scanner;
 

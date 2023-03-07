@@ -1,4 +1,4 @@
-package arrays.DominandoAlgaritimosBasicosComDesafiosJava;
+package DominandoAlgaritimosBasicosComDesafiosJava;
 
 /*
  * Desafio
