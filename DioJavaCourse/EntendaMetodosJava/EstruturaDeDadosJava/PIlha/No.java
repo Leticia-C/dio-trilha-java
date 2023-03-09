@@ -1,33 +1,38 @@
 package EntendaMetodosJava.EstruturaDeDadosJava.PIlha;
 
 public class No {
-    private int dado;
-    private No refNo = null;
 
-    public No(int dado) {
-        this.dado = dado;
+    private Object object;
+    private No refNo;
+
+    public No(){
     }
 
-    public int getDado() {
-        return dado;
+    public No(Object object){
+        this.refNo = null;
+        this.object = object;
     }
 
-    public void setDado(int dado) {
-        this.dado = dado;
+    public Object getObject() {
+        return object;
+    }
+
+    public void setObject(Object object) {
+        this.object = object;
     }
 
     public No getRefNo() {
         return refNo;
     }
 
-    public void setReNo(No reNo) {
-        this.refNo = reNo;
+    public void setRefNo(No refNo) {
+        this.refNo = refNo;
     }
 
     @Override
     public String toString() {
-        return "No(" +
-                "dado" + dado +
-                ")";
+        return "No{" +
+                "object=" + object +
+                '}';
     }
 }
