@@ -1,4 +1,4 @@
-package EntendaMetodosJava.EstruturaDeDadosJava;
+package EntendaMetodosJava.EstruturaDeDadosJava.Encadeamento;
 
 public class Main {
 
