@@ -1,6 +1,6 @@
 package DominandoAlgaritimosBasicosComDesafiosJava.ProgramacaoOrientadaAObjetos;
 
-public class Carro {
+public class Carro extends Veiculo {
     private String marca;
     private String modelo;
     private int ano;
