@@ -1,6 +1,4 @@
-package DominandoAlgaritimosBasicosComDesafiosJava;
-
-import DominandoAlgaritimosBasicosComDesafiosJava.ProgramacaoOrientadaAObjetos.ClasseMae;
+package ProgramacaoOrientadaAObjetos;
 
 public class ClasseFilha2 extends ClasseMae {
     @Override

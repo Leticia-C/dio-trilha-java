@@ -1,4 +1,4 @@
-package DominandoAlgaritimosBasicosComDesafiosJava.ProgramacaoOrientadaAObjetos;
+package ProgramacaoOrientadaAObjetos;
 
 public class ClasseFilha1 extends ClasseMae {
     @Override

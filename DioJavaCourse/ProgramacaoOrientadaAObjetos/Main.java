@@ -1,6 +1,4 @@
-package DominandoAlgaritimosBasicosComDesafiosJava.ProgramacaoOrientadaAObjetos;
-
-import DominandoAlgaritimosBasicosComDesafiosJava.ClasseFilha2;
+package ProgramacaoOrientadaAObjetos;
 
 public class Main {
     public static void main(String[] args) {
